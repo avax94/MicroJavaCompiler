@@ -1,0 +1,170 @@
+=====================SEMANTICKA ANALIZA=========================
+Pretraga na (14), nadjeno Fld head: Class, 1, 1 
+Pretraga na (14), nadjeno Var h: Class, 1, 1 
+Pretraga na (15), nadjeno Fld tail: Class, 2, 1 
+Pretraga na (15), nadjeno Var t: Class, 2, 1 
+Pretraga na (19), nadjeno Var elem: Class, 2, 1 
+Pretraga na (20), nadjeno Var elem: Class, 2, 1 
+Pretraga na (20), nadjeno Fld value: int, 1, 1 
+Pretraga na (20), nadjeno Var x: int, 1, 1 
+Pretraga na (21), nadjeno Var elem: Class, 2, 1 
+Pretraga na (21), nadjeno Fld next: Class, 2, 1 
+Pretraga na (21), nadjeno Con null: Class, 0, 0 
+Pretraga na (22), nadjeno Fld head: Class, 1, 1 
+Pretraga na (22), nadjeno Con null: Class, 0, 0 
+Pretraga na (23), nadjeno Fld head: Class, 1, 1 
+Pretraga na (23), nadjeno Var elem: Class, 2, 1 
+Pretraga na (24), nadjeno Fld tail: Class, 2, 1 
+Pretraga na (24), nadjeno Var elem: Class, 2, 1 
+Pretraga na (26), nadjeno Fld tail: Class, 2, 1 
+Pretraga na (26), nadjeno Fld next: Class, 2, 1 
+Pretraga na (26), nadjeno Var elem: Class, 2, 1 
+Pretraga na (27), nadjeno Fld tail: Class, 2, 1 
+Pretraga na (27), nadjeno Var elem: Class, 2, 1 
+Pretraga na (32), nadjeno Var curr: Class, 1, 1 
+Pretraga na (32), nadjeno Fld head: Class, 1, 1 
+Pretraga na (32), nadjeno Var curr: Class, 1, 1 
+Pretraga na (32), nadjeno Var curr: Class, 1, 1 
+Pretraga na (32), nadjeno Fld next: Class, 2, 1 
+Pretraga na (33), nadjeno Var curr: Class, 1, 1 
+Pretraga na (33), nadjeno Con null: Class, 0, 0 
+Pretraga na (35), nadjeno Var curr: Class, 1, 1 
+Pretraga na (35), nadjeno Fld value: int, 1, 1 
+Pretraga na (35), nadjeno Con eol: char, 10, 0 
+Pretraga na (40), nadjeno Var l: Class, 0, 1 
+Pretraga na (40), nadjeno Meth stampaj: notype, 79, 1 
+Pretraga na (49), nadjeno Fld cnt: int, 3, 1 
+Pretraga na (50), nadjeno Fld head: Class, 1, 1 
+Pretraga na (50), nadjeno Var h: Class, 1, 1 
+Pretraga na (51), nadjeno Fld tail: Class, 2, 1 
+Pretraga na (51), nadjeno Var t: Class, 2, 1 
+Pretraga na (54), nadjeno Fld cnt: int, 3, 1 
+Pretraga na (54), nadjeno Fld cnt: int, 3, 1 
+Pretraga na (55), nadjeno Var elem: Class, 3, 1 
+Pretraga na (56), nadjeno Var elem: Class, 3, 1 
+Pretraga na (56), nadjeno Fld next: Class, 2, 1 
+Pretraga na (56), nadjeno Con null: Class, 0, 0 
+Pretraga na (57), nadjeno Var elem: Class, 3, 1 
+Pretraga na (57), nadjeno Fld value: int, 1, 1 
+Pretraga na (57), nadjeno Var x: int, 1, 1 
+Pretraga na (58), nadjeno Fld head: Class, 1, 1 
+Pretraga na (58), nadjeno Con null: Class, 0, 0 
+Pretraga na (59), nadjeno Fld head: Class, 1, 1 
+Pretraga na (59), nadjeno Var elem: Class, 3, 1 
+Pretraga na (60), nadjeno Fld tail: Class, 2, 1 
+Pretraga na (60), nadjeno Var elem: Class, 3, 1 
+Pretraga na (62), nadjeno Fld tail: Class, 2, 1 
+Pretraga na (62), nadjeno Fld next: Class, 2, 1 
+Pretraga na (62), nadjeno Var elem: Class, 3, 1 
+Pretraga na (63), nadjeno Fld tail: Class, 2, 1 
+Pretraga na (63), nadjeno Var elem: Class, 3, 1 
+Pretraga na (67), nadjeno Var curr: Class, 2, 1 
+Pretraga na (67), nadjeno Fld head: Class, 1, 1 
+Pretraga na (67), nadjeno Var curr: Class, 2, 1 
+Pretraga na (67), nadjeno Con null: Class, 0, 0 
+Pretraga na (67), nadjeno Var curr: Class, 2, 1 
+Pretraga na (67), nadjeno Var curr: Class, 2, 1 
+Pretraga na (67), nadjeno Fld next: Class, 2, 1 
+Pretraga na (68), nadjeno Var curr: Class, 2, 1 
+Pretraga na (68), nadjeno Fld value: int, 1, 1 
+Pretraga na (68), nadjeno Con eol: char, 10, 0 
+Pretraga na (71), nadjeno Fld cnt: int, 3, 1 
+Pretraga na (71), nadjeno Con eol: char, 10, 0 
+Pretraga na (79), nadjeno Var liste: Arr of Class, 56, 0 
+Pretraga na (80), nadjeno Var liste: Arr of Class, 56, 0 
+Pretraga na (81), nadjeno Var liste: Arr of Class, 56, 0 
+Pretraga na (83), nadjeno Var liste: Arr of Class, 56, 0 
+Pretraga na (83), nadjeno Meth init: notype, 0, 3 
+Pretraga na (83), nadjeno Con null: Class, 0, 0 
+Pretraga na (83), nadjeno Con null: Class, 0, 0 
+Pretraga na (84), nadjeno Var liste: Arr of Class, 56, 0 
+Pretraga na (84), nadjeno Meth init: notype, 0, 3 
+Pretraga na (84), nadjeno Con null: Class, 0, 0 
+Pretraga na (84), nadjeno Con null: Class, 0, 0 
+Pretraga na (86), nadjeno Var n: int, 0, 1 
+Pretraga na (86), nadjeno Con nn: int, 5, 0 
+Pretraga na (87), nadjeno Var i: int, 2, 1 
+Pretraga na (87), nadjeno Var i: int, 2, 1 
+Pretraga na (87), nadjeno Var n: int, 0, 1 
+Pretraga na (87), nadjeno Var i: int, 2, 1 
+Pretraga na (88), nadjeno Var x: int, 1, 1 
+Pretraga na (89), nadjeno Var liste: Arr of Class, 56, 0 
+Pretraga na (89), nadjeno Meth dodaj: notype, 15, 2 
+Pretraga na (89), nadjeno Var x: int, 1, 1 
+Pretraga na (90), nadjeno Var liste: Arr of Class, 56, 0 
+Pretraga na (90), nadjeno Meth dodaj: notype, 15, 2 
+Pretraga na (90), nadjeno Var x: int, 1, 1 
+Pretraga na (93), nadjeno Type List: Class, 0, 0 
+Pretraga na (93), nadjeno Meth p: notype, 133, 1 
+Pretraga na (93), nadjeno Var liste: Arr of Class, 56, 0 
+Pretraga na (94), nadjeno Type List: Class, 0, 0 
+Pretraga na (94), nadjeno Meth p: notype, 133, 1 
+Pretraga na (94), nadjeno Var liste: Arr of Class, 56, 0 
+=====================SINTAKSNA ANALIZA=========================
+Pronadjeno: 2 globalnih promenljivih
+Pronadjeno: 1 globalnih konstanti
+Pronadjeno: 1 globalnih nizova
+Pronadjeno: 3 lokalnih promenljivih
+Pronadjeno: 2 globalnih funkcija
+Pronadjeno: 3 definicija klasa
+Pronadjeno: 6 metoda
+Pronadjeno: 7 statement blokova
+Pronadjeno: 7 poziva funkcija u mainu
+Pronadjeno: 7 formalnih argumenata
+Pronadjeno: 5 polja klasa
+=====================SYMBOL TABLE DUMP=========================
+Var $helper: int, 0, 0 
+Prog testsem: notype, 0, 0 
+
+Var brojPozivaMetoda: int, 1, 0 
+Con nn: int, 5, 0 
+Type ListElem: Class [Fld $vtable: int, 0, 1 Fld value: int, 1, 1 Fld next: Class [], 2, 1 ], 0, 0 
+Type List: Class [Fld $vtable: int, 0, 1 Fld head: Class [], 1, 1 Fld tail: Class [], 2, 1 Meth init: notype, 0, 3 
+   Var this: , 0, 1 
+   Var h: Class [], 1, 1 
+   Var t: Class [], 2, 1 
+Meth dodaj: notype, 15, 2 
+   Var this: , 0, 1 
+   Var x: int, 1, 1 
+   Var elem: Class [], 2, 1 
+Meth stampaj: notype, 79, 1 
+   Var this: , 0, 1 
+   Var curr: Class [], 1, 1 
+Meth p: notype, 133, 1 
+   Var l: Class [], 0, 1 
+], 0, 0 
+Var test: int, 29, 0 
+Type ListSaBrojacem: Class [Fld $vtable: int, 0, 1 Fld $super: Class [], 1, 1 Fld cnt: int, 3, 1 Meth init: notype, 176, 3 
+   Var this: , 0, 1 
+   Var h: Class [], 1, 1 
+   Var t: Class [], 2, 1 
+Meth dodaj: notype, 196, 2 
+   Var this: , 0, 1 
+   Var x: int, 1, 1 
+   Var elem: Class [], 3, 1 
+Meth stampaj: notype, 270, 1 
+   Var this: , 0, 1 
+   Var curr: Class [], 2, 1 
+], 0, 0 
+Var liste: Arr of Class, 56, 0 
+Meth main: notype, 328, 0 
+   Var n: int, 0, 1 
+   Var x: int, 1, 1 
+   Var i: int, 2, 1 
+
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+
+************************USPESNO ZAVRSENO PARSIRANJE!*************************

@@ -1,0 +1,44 @@
+Sintaksna greska 2:9 Sintaksna greska
+2:7 Uspesan oporavak od greske do ","
+Sintaksna greska 2:14 Sintaksna greska
+2:12 Uspesan oporavak od greske do ";"
+4:20 Nije pronadjen tip N u tabeli simbola
+Sintaksna greska 4:22 Sintaksna greska
+4:20 Uspesan oporavak od greske kod nasledjivanja klase
+Sintaksna greska 5:17 Sintaksna greska
+5:12 Uspesan oporavak od greske kod deklarisanje polja klase
+Sintaksna greska 15:21 Sintaksna greska
+15:19 Uspesan oporavak od greske do ","
+Sintaksna greska 15:38 Sintaksna greska
+15:35 Uspesan oporavak od greske do ")"
+Sintaksna greska 19:33 Sintaksna greska
+Uspesan oporavak od greske do ";"
+Redefinisan simbol: x u tabeli simbola
+Sintaksna greska 19:46 Sintaksna greska
+19:44 Uspesan oporavak od greske do "{"
+22:8 Ne postoji simbol y u tabeli simbola!
+22:12 Ne postoji simbol y u tabeli simbola!
+22:12 Sabirci moraju biti tipa int!
+Sintaksna greska 22:16 Sintaksna greska
+22:14 Uspesan oporavak od greske prilikom izraza
+22:4 Izraz je pogresnog tipa!
+Sintaksna greska 23:11 Sintaksna greska
+23:9 Uspesan oporavak od greske prilikom uslova
+Sintaksna greska 27:14 Sintaksna greska
+27:12 Uspesan oporavak od greske prilikom izraza
+27:8 Izraz je pogresnog tipa!
+Sintaksna greska 27:21 Sintaksna greska
+27:19 Uspesan oporavak od greske prilikom uslova
+Sintaksna greska 27:33 Sintaksna greska
+27:32 Uspesan oporavak od greske prilikom izraza
+27:26 Izraz je pogresnog tipa!
+28:10 Ne postoji simbol y u tabeli simbola!
+28:12 Sabirci moraju biti tipa int!
+28:10 Nekompatibilni tipovi!
+31:10 Nepostojece polje/metoda metoda za varijablu test1
+31:10 Simbol noObj nije metoda!
+Sintaksna greska 31:19 Sintaksna greska
+31:17 Uspesan oporavak od greske prilikon prosledjivanja argumenata funkciji
+Sintaksna greska 32:11 Sintaksna greska
+32:8 Uspesan oporavak od greske prilikom izraza
+34:3 Nedostaje return statement u metodi!

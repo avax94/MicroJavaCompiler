@@ -1,0 +1,54 @@
+program syntest
+const int k1 = 'c';
+const char c1 = 2;
+int x, y, z;
+
+class C1 {
+int f1, f2;
+char f3;
+C1 c;
+{
+  int m1(int p1, char p2) {
+    return p2;
+  }
+
+  static int s1() {
+    this.c = c;
+  }
+}
+}
+
+class C2 extends int {
+{
+
+}
+}
+
+{
+  static int f1(int x, int y) {
+     return 0;
+  }
+  void main() int l1, l2, l3; C1 c1; C2 c2; C1 niz[]; {
+    niz = l1 + l2;
+    c1++;
+    niz = new C1['c'];
+    l1 = 'c';
+    break;
+    continue;
+    read(c2);
+    print(c1);
+    l1 = c1 + c2;
+
+    if(c1 < c2) {
+
+    }
+    l3 = new int;
+    c1+= 2;
+    l1.l1 = l2;
+    l1(l1, l2);
+
+    f1('c', 'd');
+
+   }
+}
+

@@ -1,0 +1,41 @@
+=====================SEMANTICKA ANALIZA=========================
+Pretraga na (6), nadjeno Var i: int, 0, 1 
+Pretraga na (6), nadjeno Var i: int, 0, 1 
+Pretraga na (7), nadjeno Var i: int, 0, 1 
+Pretraga na (8), nadjeno Var i: int, 0, 1 
+=====================SINTAKSNA ANALIZA=========================
+Pronadjeno: 0 globalnih promenljivih
+Pronadjeno: 0 globalnih konstanti
+Pronadjeno: 0 globalnih nizova
+Pronadjeno: 2 lokalnih promenljivih
+Pronadjeno: 1 globalnih funkcija
+Pronadjeno: 0 definicija klasa
+Pronadjeno: 0 metoda
+Pronadjeno: 1 statement blokova
+Pronadjeno: 1 poziva funkcija u mainu
+Pronadjeno: 0 formalnih argumenata
+Pronadjeno: 0 polja klasa
+=====================SYMBOL TABLE DUMP=========================
+Var $helper: int, 0, 0 
+Prog Test12: notype, 0, 0 
+
+Meth main: notype, 0, 0 
+   Var i: int, 0, 1 
+   Var c: char, 1, 1 
+
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+
+************************USPESNO ZAVRSENO PARSIRANJE!*************************

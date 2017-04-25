@@ -1,0 +1,25 @@
+2:10 Tip konstante i konstanta se ne poklapaju!
+3:11 Tip konstante i konstanta se ne poklapaju!
+12:4 Povratni tip metode i naredbe return se ne poklapaju
+16:4 Ne postoji simbol this u tabeli simbola!
+17:2 Nedostaje return statement u metodi!
+21:9 Klasa mora nasledjivati drugu klasu!
+28:2 Kljucna rec static se moze koristiti samo uokviru klase!
+28:13 Globalne metode ne mogu biti staticke!
+32:4 Izraz je pogresnog tipa!
+33:4 Operacija se moze izvesti samo na tipu: int!
+34:10 Parametri operanda new moraju biti tipa int!
+35:4 Izraz je pogresnog tipa!
+36:4 break se sme koristiti samo uokviru petlje!
+37:4 continue se sme koristiti samo uokviru petlje!
+38:4 Ne moze se pozvati READ za ovaj tip simbola!
+39:4 Ne moze se pozvati PRINT za ovaj tip simbola!
+40:14 Sabirci moraju biti tipa int!
+40:4 Izraz je pogresnog tipa!
+42:7 Ne moze se koristiti ovaj operand sa klasama!
+45:9 45:9 Simbol nije klasnog tipa
+46:4 Izraz je pogresnog tipa!
+47:4 Promenljival1 nije klasnog tipa!
+48:4 Simbol l1 nije metoda!
+50:7 Pogresan tip 0. argumenta!
+50:12 Pogresan tip 1. argumenta!

@@ -1,0 +1,88 @@
+=====================SEMANTICKA ANALIZA=========================
+Pretraga na (12), nadjeno Var p1: int, 1, 1 
+Pretraga na (20), nadjeno Var p1: int, 1, 1 
+Pretraga na (30), nadjeno Var l1: int, 0, 1 
+Pretraga na (30), nadjeno Var l2: int, 1, 1 
+Pretraga na (30), nadjeno Var l3: int, 2, 1 
+Pretraga na (30), nadjeno Var l3: int, 2, 1 
+Pretraga na (30), nadjeno Var l1: int, 0, 1 
+Pretraga na (30), nadjeno Var l2: int, 1, 1 
+Pretraga na (30), nadjeno Var l1: int, 0, 1 
+Pretraga na (30), nadjeno Var l1: int, 0, 1 
+Pretraga na (30), nadjeno Meth f1: int, 18, 0 
+Pretraga na (31), nadjeno Var l1: int, 0, 1 
+Pretraga na (32), nadjeno Var c1: Class, 3, 1 
+Pretraga na (33), nadjeno Var c1: Class, 3, 1 
+Pretraga na (33), nadjeno Meth m1: int, 0, 3 
+Pretraga na (33), nadjeno Var l1: int, 0, 1 
+Pretraga na (36), nadjeno Var l1: int, 0, 1 
+Pretraga na (36), nadjeno Var l1: int, 0, 1 
+Pretraga na (36), nadjeno Var l2: int, 1, 1 
+Pretraga na (36), nadjeno Var l1: int, 0, 1 
+Pretraga na (37), nadjeno Var l1: int, 0, 1 
+Pretraga na (37), nadjeno Var l2: int, 1, 1 
+Pretraga na (37), nadjeno Var l1: int, 0, 1 
+Pretraga na (40), nadjeno Var l1: int, 0, 1 
+Pretraga na (43), nadjeno Var l2: int, 1, 1 
+Pretraga na (44), nadjeno Var l2: int, 1, 1 
+Pretraga na (47), nadjeno Var niz: Arr of Class, 5, 1 
+Pretraga na (48), nadjeno Var niz: Arr of Class, 5, 1 
+Pretraga na (48), nadjeno Meth m1: int, 0, 3 
+Pretraga na (48), nadjeno Var l2: int, 1, 1 
+=====================SINTAKSNA ANALIZA=========================
+Pronadjeno: 3 globalnih promenljivih
+Pronadjeno: 2 globalnih konstanti
+Pronadjeno: 0 globalnih nizova
+Pronadjeno: 6 lokalnih promenljivih
+Pronadjeno: 2 globalnih funkcija
+Pronadjeno: 2 definicija klasa
+Pronadjeno: 2 metoda
+Pronadjeno: 1 statement blokova
+Pronadjeno: 5 poziva funkcija u mainu
+Pronadjeno: 4 formalnih argumenata
+Pronadjeno: 4 polja klasa
+=====================SYMBOL TABLE DUMP=========================
+Var $helper: int, 0, 0 
+Prog syntest: notype, 0, 0 
+
+Con k1: int, 2, 0 
+Con c1: char, 99, 0 
+Var x: int, 1, 0 
+Var y: int, 2, 0 
+Var z: int, 3, 0 
+Type C1: Class [Fld $vtable: int, 0, 1 Fld f1: int, 1, 1 Fld f2: int, 2, 1 Fld f3: char, 3, 1 Fld c: Class [], 4, 1 Meth m1: int, 0, 3 
+   Var this: , 0, 1 
+   Var p1: int, 1, 1 
+   Var p2: char, 2, 1 
+], 0, 0 
+Type C2: Class [Fld $vtable: int, 0, 1 Fld $super: Class [], 1, 1 Meth m1: int, 8, 3 
+   Var this: , 0, 1 
+   Var p1: int, 1, 1 
+   Var p2: char, 2, 1 
+], 0, 0 
+Meth f1: int, 18, 0 
+
+Meth main: notype, 26, 0 
+   Var l1: int, 0, 1 
+   Var l2: int, 1, 1 
+   Var l3: int, 2, 1 
+   Var c1: Class [], 3, 1 
+   Var c2: Class [], 4, 1 
+   Var niz: Arr of Class, 5, 1 
+
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+
+************************USPESNO ZAVRSENO PARSIRANJE!*************************

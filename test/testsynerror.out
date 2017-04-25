@@ -1,0 +1,62 @@
+=====================SEMANTICKA ANALIZA=========================
+Pretraga na (8), nadjeno Fld fld1: int, 1, 1 
+Pretraga na (8), nadjeno Var x: int, 1, 1 
+Pretraga na (8), nadjeno Var y: int, 2, 1 
+Pretraga na (20), nadjeno Var niz: Arr of int, 2, 0 
+Pretraga na (21), nadjeno Var obj: Class, 0, 1 
+Pretraga na (22), nadjeno Var x: int, 1, 1 
+Pretraga na (23), nadjeno Var x: int, 1, 1 
+Pretraga na (24), nadjeno Var x: int, 1, 1 
+Pretraga na (27), nadjeno Var x: int, 1, 1 
+Pretraga na (27), nadjeno Var x: int, 1, 1 
+Pretraga na (27), nadjeno Var x: int, 1, 1 
+Pretraga na (27), nadjeno Var x: int, 1, 1 
+Pretraga na (28), nadjeno Var x: int, 1, 1 
+Pretraga na (28), nadjeno Var x: int, 1, 1 
+Pretraga na (31), nadjeno Type test1: Class, 0, 0 
+Pretraga na (32), nadjeno Var niz: Arr of int, 2, 0 
+=====================SINTAKSNA ANALIZA=========================
+Pronadjeno: 3 globalnih promenljivih
+Pronadjeno: 0 globalnih konstanti
+Pronadjeno: 1 globalnih nizova
+Pronadjeno: 3 lokalnih promenljivih
+Pronadjeno: 2 globalnih funkcija
+Pronadjeno: 1 definicija klasa
+Pronadjeno: 1 metoda
+Pronadjeno: 2 statement blokova
+Pronadjeno: 1 poziva funkcija u mainu
+Pronadjeno: 3 formalnih argumenata
+Pronadjeno: 1 polja klasa
+=====================SYMBOL TABLE DUMP=========================
+Var $helper: int, 0, 0 
+Prog Err: notype, 0, 0 
+
+Var x: int, 1, 0 
+Var niz: Arr of int, 2, 0 
+Type test1: Class [Fld $vtable: int, 0, 1 Fld fld1: int, 1, 1 Meth metoda: notype, 0, 3 
+   Var this: , 0, 1 
+   Var x: int, 1, 1 
+   Var y: int, 2, 1 
+], 0, 0 
+Meth funcTest: int, 12, 1 
+   Var e: int, 0, 1 
+
+Meth main: int, 20, 0 
+   Var obj: Class [], 0, 1 
+   Var x: int, 1, 1 
+
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+

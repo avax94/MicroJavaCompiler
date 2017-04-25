@@ -1,0 +1,8 @@
+program Test14
+{
+	void main() int i[]; char c; {
+	  c = chr(65);
+      i = new int[ord(c)];	  
+	  print(len(i));
+	}
+}

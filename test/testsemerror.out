@@ -1,0 +1,79 @@
+=====================SEMANTICKA ANALIZA=========================
+Pretraga na (12), nadjeno Var p2: char, 2, 1 
+Pretraga na (16), nadjeno Fld c: Class, 4, 1 
+Pretraga na (32), nadjeno Var niz: Arr of Class, 5, 1 
+Pretraga na (32), nadjeno Var l1: int, 0, 1 
+Pretraga na (32), nadjeno Var l2: int, 1, 1 
+Pretraga na (33), nadjeno Var c1: Class, 3, 1 
+Pretraga na (34), nadjeno Var niz: Arr of Class, 5, 1 
+Pretraga na (35), nadjeno Var l1: int, 0, 1 
+Pretraga na (38), nadjeno Var c2: Class, 4, 1 
+Pretraga na (39), nadjeno Var c1: Class, 3, 1 
+Pretraga na (40), nadjeno Var l1: int, 0, 1 
+Pretraga na (40), nadjeno Var c1: Class, 3, 1 
+Pretraga na (40), nadjeno Var c2: Class, 4, 1 
+Pretraga na (42), nadjeno Var c1: Class, 3, 1 
+Pretraga na (42), nadjeno Var c2: Class, 4, 1 
+Pretraga na (45), nadjeno Var l3: int, 2, 1 
+Pretraga na (46), nadjeno Var c1: Class, 3, 1 
+Pretraga na (47), nadjeno Var l1: int, 0, 1 
+Pretraga na (47), nadjeno Var l2: int, 1, 1 
+Pretraga na (48), nadjeno Var l1: int, 0, 1 
+Pretraga na (48), nadjeno Var l1: int, 0, 1 
+Pretraga na (48), nadjeno Var l2: int, 1, 1 
+Pretraga na (50), nadjeno Meth f1: int, 18, 2 
+=====================SINTAKSNA ANALIZA=========================
+Pronadjeno: 3 globalnih promenljivih
+Pronadjeno: 2 globalnih konstanti
+Pronadjeno: 0 globalnih nizova
+Pronadjeno: 6 lokalnih promenljivih
+Pronadjeno: 3 globalnih funkcija
+Pronadjeno: 2 definicija klasa
+Pronadjeno: 1 metoda
+Pronadjeno: 1 statement blokova
+Pronadjeno: 4 poziva funkcija u mainu
+Pronadjeno: 4 formalnih argumenata
+Pronadjeno: 4 polja klasa
+=====================SYMBOL TABLE DUMP=========================
+Var $helper: int, 0, 0 
+Prog syntest: notype, 0, 0 
+
+Con k1: int, 99, 0 
+Con c1: char, 2, 0 
+Var x: int, 1, 0 
+Var y: int, 2, 0 
+Var z: int, 3, 0 
+Type C1: Class [Fld $vtable: int, 0, 1 Fld f1: int, 1, 1 Fld f2: int, 2, 1 Fld f3: char, 3, 1 Fld c: Class [], 4, 1 Meth m1: int, 0, 3 
+   Var this: , 0, 1 
+   Var p1: int, 1, 1 
+   Var p2: char, 2, 1 
+Meth s1: int, 8, 0 
+], 0, 0 
+Type C2: Class [Fld $vtable: int, 0, 1 ], 0, 0 
+Meth f1: int, 18, 2 
+   Var x: int, 0, 1 
+   Var y: int, 1, 1 
+
+Meth main: notype, 26, 0 
+   Var l1: int, 0, 1 
+   Var l2: int, 1, 1 
+   Var l3: int, 2, 1 
+   Var c1: Class [], 3, 1 
+   Var c2: Class [], 4, 1 
+   Var niz: Arr of Class, 5, 1 
+
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+

@@ -1,0 +1,218 @@
+=====================SEMANTICKA ANALIZA=========================
+Pretraga na (12), nadjeno Var this: Class, 0, 1 
+Pretraga na (12), nadjeno Fld tezina: int, 1, 1 
+Pretraga na (12), nadjeno Var tezina: int, 1, 1 
+Pretraga na (13), nadjeno Fld tezina: int, 1, 1 
+Pretraga na (14), nadjeno Var p: Class, 0, 1 
+Pretraga na (14), nadjeno Fld vrsta: char, 2, 1 
+Pretraga na (14), nadjeno Con eol: char, 10, 0 
+Pretraga na (14), nadjeno Var p: Class, 0, 1 
+Pretraga na (14), nadjeno Fld tezina: int, 1, 1 
+Pretraga na (16), nadjeno Meth zapremina: int, 44, 1 
+Pretraga na (16), nadjeno Fld tezina: int, 1, 1 
+Pretraga na (17), nadjeno Var this: Class, 0, 1 
+Pretraga na (17), nadjeno Fld vrsta: char, 2, 1 
+Pretraga na (17), nadjeno Var vrsta: char, 1, 1 
+Pretraga na (25), nadjeno Var this: Class, 0, 1 
+Pretraga na (25), nadjeno Fld tezina: int, 1, 1 
+Pretraga na (25), nadjeno Var tezina: int, 1, 1 
+Pretraga na (25), nadjeno Fld vrsta: char, 2, 1 
+Pretraga na (26), nadjeno Var this: Class, 0, 1 
+Pretraga na (26), nadjeno Fld r: int, 3, 1 
+Pretraga na (26), nadjeno Var r: int, 1, 1 
+Pretraga na (26), nadjeno Meth postaviVrstu: notype, 110, 2 
+Pretraga na (30), nadjeno Var z: int, 2, 1 
+Pretraga na (30), nadjeno Con cinilac: int, 4, 0 
+Pretraga na (31), nadjeno Var z: int, 2, 1 
+Pretraga na (31), nadjeno Fld r: int, 3, 1 
+Pretraga na (31), nadjeno Con delilac: int, 3, 0 
+Pretraga na (32), nadjeno Var z: int, 2, 1 
+Pretraga na (41), nadjeno Var this: Class, 0, 1 
+Pretraga na (41), nadjeno Fld tezina: int, 1, 1 
+Pretraga na (41), nadjeno Var tezina: int, 1, 1 
+Pretraga na (41), nadjeno Fld vrsta: char, 2, 1 
+Pretraga na (42), nadjeno Var this: Class, 0, 1 
+Pretraga na (42), nadjeno Fld a: int, 3, 1 
+Pretraga na (42), nadjeno Var a: int, 1, 1 
+Pretraga na (42), nadjeno Var this: Class, 0, 1 
+Pretraga na (42), nadjeno Fld b: int, 4, 1 
+Pretraga na (42), nadjeno Var b: int, 2, 1 
+Pretraga na (42), nadjeno Var this: Class, 0, 1 
+Pretraga na (42), nadjeno Fld c: int, 5, 1 
+Pretraga na (42), nadjeno Var c: int, 3, 1 
+Pretraga na (42), nadjeno Fld vrsta: char, 2, 1 
+Pretraga na (46), nadjeno Var z: int, 2, 1 
+Pretraga na (46), nadjeno Fld a: int, 3, 1 
+Pretraga na (47), nadjeno Var z: int, 2, 1 
+Pretraga na (47), nadjeno Fld b: int, 4, 1 
+Pretraga na (47), nadjeno Fld c: int, 5, 1 
+Pretraga na (48), nadjeno Var z: int, 2, 1 
+Pretraga na (59), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (60), nadjeno Var s1: Class, 2, 1 
+Pretraga na (61), nadjeno Var s2: Class, 3, 1 
+Pretraga na (62), nadjeno Var s3: Class, 4, 1 
+Pretraga na (64), nadjeno Var k1: Class, 5, 1 
+Pretraga na (65), nadjeno Var k2: Class, 6, 1 
+Pretraga na (66), nadjeno Var k3: Class, 7, 1 
+Pretraga na (68), nadjeno Var s1: Class, 2, 1 
+Pretraga na (68), nadjeno Meth postaviPoluprecnik: notype, 139, 2 
+Pretraga na (69), nadjeno Var s2: Class, 3, 1 
+Pretraga na (69), nadjeno Meth postaviPoluprecnik: notype, 139, 2 
+Pretraga na (70), nadjeno Var s3: Class, 4, 1 
+Pretraga na (70), nadjeno Meth postaviPoluprecnik: notype, 139, 2 
+Pretraga na (72), nadjeno Var k1: Class, 5, 1 
+Pretraga na (72), nadjeno Meth postaviStranice: notype, 270, 4 
+Pretraga na (73), nadjeno Var k2: Class, 6, 1 
+Pretraga na (73), nadjeno Meth postaviStranice: notype, 270, 4 
+Pretraga na (74), nadjeno Var k3: Class, 7, 1 
+Pretraga na (74), nadjeno Meth postaviStranice: notype, 270, 4 
+Pretraga na (76), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (76), nadjeno Var s1: Class, 2, 1 
+Pretraga na (77), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (77), nadjeno Var s2: Class, 3, 1 
+Pretraga na (78), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (78), nadjeno Var s3: Class, 4, 1 
+Pretraga na (79), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (79), nadjeno Var k1: Class, 5, 1 
+Pretraga na (80), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (80), nadjeno Var k2: Class, 6, 1 
+Pretraga na (81), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (81), nadjeno Var k3: Class, 7, 1 
+Pretraga na (83), nadjeno Var t: int, 8, 1 
+Pretraga na (84), nadjeno Var i: int, 1, 1 
+Pretraga na (84), nadjeno Var i: int, 1, 1 
+Pretraga na (84), nadjeno Var i: int, 1, 1 
+Pretraga na (86), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (86), nadjeno Var i: int, 1, 1 
+Pretraga na (86), nadjeno Meth postaviTezinu: notype, 0, 2 
+Pretraga na (86), nadjeno Var t: int, 8, 1 
+Pretraga na (89), nadjeno Var i: int, 1, 1 
+Pretraga na (90), nadjeno Var zapreminaS: int, 234, 0 
+Pretraga na (91), nadjeno Var tezinaS: int, 236, 0 
+Pretraga na (92), nadjeno Var i: int, 1, 1 
+Pretraga na (94), nadjeno Var i: int, 1, 1 
+Pretraga na (95), nadjeno Var i: int, 1, 1 
+Pretraga na (96), nadjeno Var zapreminaS: int, 234, 0 
+Pretraga na (96), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (96), nadjeno Var i: int, 1, 1 
+Pretraga na (96), nadjeno Meth zapremina: int, 44, 1 
+Pretraga na (97), nadjeno Var tezinaS: int, 236, 0 
+Pretraga na (97), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (97), nadjeno Var i: int, 1, 1 
+Pretraga na (97), nadjeno Meth Q: int, 52, 1 
+Pretraga na (98), nadjeno Type Predmet: Class, 0, 0 
+Pretraga na (98), nadjeno Meth ispis: notype, 20, 1 
+Pretraga na (98), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (98), nadjeno Var i: int, 1, 1 
+Pretraga na (101), nadjeno Var i: int, 1, 1 
+Pretraga na (102), nadjeno Var zapreminaK: int, 233, 0 
+Pretraga na (102), nadjeno Var tezinaK: int, 235, 0 
+Pretraga na (103), nadjeno Var i: int, 1, 1 
+Pretraga na (105), nadjeno Var i: int, 1, 1 
+Pretraga na (106), nadjeno Var i: int, 1, 1 
+Pretraga na (107), nadjeno Var zapreminaK: int, 233, 0 
+Pretraga na (107), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (107), nadjeno Var i: int, 1, 1 
+Pretraga na (107), nadjeno Meth zapremina: int, 44, 1 
+Pretraga na (108), nadjeno Var tezinaK: int, 235, 0 
+Pretraga na (108), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (108), nadjeno Var i: int, 1, 1 
+Pretraga na (108), nadjeno Meth Q: int, 52, 1 
+Pretraga na (109), nadjeno Type Predmet: Class, 0, 0 
+Pretraga na (109), nadjeno Meth ispis: notype, 20, 1 
+Pretraga na (109), nadjeno Var predmeti: Arr of Class, 0, 1 
+Pretraga na (109), nadjeno Var i: int, 1, 1 
+Pretraga na (112), nadjeno Var zapreminaS: int, 234, 0 
+Pretraga na (112), nadjeno Con eol: char, 10, 0 
+Pretraga na (113), nadjeno Var zapreminaK: int, 233, 0 
+Pretraga na (113), nadjeno Con eol: char, 10, 0 
+Pretraga na (114), nadjeno Var tezinaS: int, 236, 0 
+Pretraga na (114), nadjeno Con eol: char, 10, 0 
+Pretraga na (115), nadjeno Var tezinaK: int, 235, 0 
+Pretraga na (115), nadjeno Con eol: char, 10, 0 
+=====================SINTAKSNA ANALIZA=========================
+Pronadjeno: 4 globalnih promenljivih
+Pronadjeno: 2 globalnih konstanti
+Pronadjeno: 0 globalnih nizova
+Pronadjeno: 9 lokalnih promenljivih
+Pronadjeno: 2 globalnih funkcija
+Pronadjeno: 3 definicija klasa
+Pronadjeno: 11 metoda
+Pronadjeno: 3 statement blokova
+Pronadjeno: 22 poziva funkcija u mainu
+Pronadjeno: 9 formalnih argumenata
+Pronadjeno: 6 polja klasa
+=====================SYMBOL TABLE DUMP=========================
+Var $helper: int, 0, 0 
+Prog test_303: notype, 0, 0 
+
+Con cinilac: int, 4, 0 
+Con delilac: int, 3, 0 
+Type Predmet: Class [Fld $vtable: int, 0, 1 Fld tezina: int, 1, 1 Fld vrsta: char, 2, 1 Meth postaviTezinu: notype, 0, 2 
+   Var this: , 0, 1 
+   Var tezina: int, 1, 1 
+Meth ucitajTezinu: notype, 10, 1 
+   Var this: , 0, 1 
+Meth ispis: notype, 20, 1 
+   Var p: Class [], 0, 1 
+Meth zapremina: int, 44, 1 
+   Var this: , 0, 1 
+Meth Q: int, 52, 1 
+   Var this: , 0, 1 
+Meth postaviVrstu: notype, 110, 2 
+   Var this: , 0, 1 
+   Var vrsta: char, 1, 1 
+], 0, 0 
+Type Sfera: Class [Fld $vtable: int, 0, 1 Fld $super: Class [], 1, 1 Fld r: int, 3, 1 Meth postaviTezinu: notype, 120, 2 
+   Var this: , 0, 1 
+   Var tezina: int, 1, 1 
+Meth postaviPoluprecnik: notype, 139, 2 
+   Var this: , 0, 1 
+   Var r: int, 1, 1 
+Meth zapremina: int, 212, 1 
+   Var this: , 0, 1 
+   Var z: int, 2, 1 
+], 0, 0 
+Type Kvadar: Class [Fld $vtable: int, 0, 1 Fld $super: Class [], 1, 1 Fld a: int, 3, 1 Fld b: int, 4, 1 Fld c: int, 5, 1 Meth postaviTezinu: notype, 251, 2 
+   Var this: , 0, 1 
+   Var tezina: int, 1, 1 
+Meth postaviStranice: notype, 270, 4 
+   Var this: , 0, 1 
+   Var a: int, 1, 1 
+   Var b: int, 2, 1 
+   Var c: int, 3, 1 
+Meth zapremina: int, 299, 1 
+   Var this: , 0, 1 
+   Var z: int, 2, 1 
+], 0, 0 
+Var zapreminaK: int, 233, 0 
+Var zapreminaS: int, 234, 0 
+Var tezinaK: int, 235, 0 
+Var tezinaS: int, 236, 0 
+Meth main: notype, 344, 0 
+   Var predmeti: Arr of Class, 0, 1 
+   Var i: int, 1, 1 
+   Var s1: Class [], 2, 1 
+   Var s2: Class [], 3, 1 
+   Var s3: Class [], 4, 1 
+   Var k1: Class [], 5, 1 
+   Var k2: Class [], 6, 1 
+   Var k3: Class [], 7, 1 
+   Var t: int, 8, 1 
+
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+
+************************USPESNO ZAVRSENO PARSIRANJE!*************************

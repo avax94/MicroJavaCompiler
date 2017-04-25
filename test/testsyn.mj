@@ -1,0 +1,98 @@
+program testsem
+
+int brojPozivaMetoda;
+const int nn = 5;
+class ListElem {
+  int value;
+  ListElem next;
+  {}
+}
+class List {
+  ListElem head, tail;
+ {
+   void init(ListElem h, ListElem t) {
+     head = h;
+     tail = t;
+   }
+
+   void dodaj(int x) ListElem elem; {
+      elem = new ListElem;
+      elem.value = x;
+      elem.next = null;
+      if(head == null) {
+        head = elem;
+        tail = elem;
+      } else {
+        tail.next = elem;
+        tail = elem;
+      }
+   }
+
+   void stampaj() ListElem curr; {
+     for(curr = head; ; curr = curr.next) {
+       if(curr == null)
+         break;
+       print(curr.value); print(eol);
+     }
+   }
+
+   static void p(List l) {
+     l.stampaj();
+   }
+   }
+ }
+int test;
+class ListSaBrojacem extends List {
+int cnt;
+{
+void init(ListElem h, ListElem t) {
+  cnt = 0;
+  head = h;
+  tail = t;
+}
+void dodaj(int x) ListElem elem; {
+  cnt = cnt + 1;
+  elem = new ListElem;
+  elem.next = null;
+  elem.value = x;
+  if(head == null) {
+    head = elem;
+    tail = elem;
+  } else {
+    tail.next = elem;
+    tail = elem;
+  }
+}
+void stampaj() ListElem curr; {
+  for(curr = head; curr != null; curr = curr.next) {
+       print(curr.value); print(eol);
+  }
+
+  print(cnt); print(eol);
+}
+
+}
+}
+List liste[];
+{
+  void main() int n, x, i; {
+    liste = new List[2];
+    liste[0] = new List;
+    liste[1] = new ListSaBrojacem;
+
+    liste[0].init(null, null);
+    liste[1].init(null, null);
+
+    n = nn;
+    for(i = 0; i < n; i++) {
+      read(x);
+      liste[0].dodaj(x);
+      liste[1].dodaj(x);
+    }
+
+    List.p(liste[0]);
+    List.p(liste[1]);
+
+  }
+}
+

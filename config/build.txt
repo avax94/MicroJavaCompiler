@@ -1,0 +1,5 @@
+javac -cp .;src;config;lib\java-cup-11a.jar;lib\mj-runtime-1.1.jar;lib\symboltable.jar src\rs\ac\bg\etf\pp1\sm130075d\*.java
+java -cp .;src;config;lib\java-cup-11a.jar;lib\mj-runtime-1.1.jar;lib\symboltable.jar rs.ac.bg.etf.pp1.sm130075d.parser
+
+java -cp lib/mj-runtime-1.1.jar rs.etf.pp1.mj.runtime.Run out.obj
+java -cp lib/JFlex.jar spec/mjava.jflex

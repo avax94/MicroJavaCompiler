@@ -1,0 +1,35 @@
+program Err
+int x, y z, t f;
+int niz[];
+class test1 extends N A {
+  int fld1, fld2 3, fld3, fld4 5;
+ {
+  void metoda(int x, int y) {
+    fld1 = x + y;
+  }
+  }
+}
+
+
+{
+  int funcTest(int x x, int e, int e2 e) {
+    return 0;
+  }
+
+  int main() test1 obj; int x, y ff; int x, y {
+    niz = new int[2];
+    obj = new test1;
+    x = y + y + - ;
+    if(x < > y) {
+      x = 2;
+    }
+
+    for(x = 0 2; x < > y; x = x -+) {
+      x = y-x;
+    }
+
+    test1.metoda(1 1, 2);
+    niz[x  y] = 2;
+
+   }
+}

@@ -1,0 +1,76 @@
+=====================SEMANTICKA ANALIZA=========================
+Pretraga na (15), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (16), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (17), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (17), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (17), nadjeno Con jedan: int, 1, 0 
+Pretraga na (18), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (18), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (18), nadjeno Con pet: int, 5, 0 
+Pretraga na (19), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (20), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (23), nadjeno Var niz: Arr of int, 1, 0 
+Pretraga na (24), nadjeno Var niz: Arr of int, 1, 0 
+Pretraga na (24), nadjeno Con pet: int, 5, 0 
+Pretraga na (25), nadjeno Var niz: Arr of int, 1, 0 
+Pretraga na (26), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (26), nadjeno Var niz: Arr of int, 1, 0 
+Pretraga na (26), nadjeno Var niz: Arr of int, 1, 0 
+Pretraga na (27), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (28), nadjeno Var niz: Arr of int, 1, 0 
+Pretraga na (31), nadjeno Var nizch: Arr of char, 2, 0 
+Pretraga na (32), nadjeno Var nizch: Arr of char, 2, 0 
+Pretraga na (33), nadjeno Var nizch: Arr of char, 2, 0 
+Pretraga na (33), nadjeno Con jedan: int, 1, 0 
+Pretraga na (34), nadjeno Var nizch: Arr of char, 2, 0 
+Pretraga na (34), nadjeno Con pet: int, 5, 0 
+Pretraga na (35), nadjeno Var nizch: Arr of char, 2, 0 
+Pretraga na (36), nadjeno Var nizch: Arr of char, 2, 0 
+Pretraga na (36), nadjeno Con jedan: int, 1, 0 
+Pretraga na (39), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (39), nadjeno Con pet: int, 5, 0 
+Pretraga na (39), nadjeno Con jedan: int, 1, 0 
+Pretraga na (40), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (43), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (44), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (44), nadjeno Var bodovi: int, 0, 1 
+Pretraga na (45), nadjeno Var bodovi: int, 0, 1 
+=====================SINTAKSNA ANALIZA=========================
+Pronadjeno: 0 globalnih promenljivih
+Pronadjeno: 2 globalnih konstanti
+Pronadjeno: 2 globalnih nizova
+Pronadjeno: 1 lokalnih promenljivih
+Pronadjeno: 1 globalnih funkcija
+Pronadjeno: 0 definicija klasa
+Pronadjeno: 0 metoda
+Pronadjeno: 0 statement blokova
+Pronadjeno: 8 poziva funkcija u mainu
+Pronadjeno: 0 formalnih argumenata
+Pronadjeno: 0 polja klasa
+=====================SYMBOL TABLE DUMP=========================
+Var $helper: int, 0, 0 
+Prog test301: notype, 0, 0 
+
+Con jedan: int, 1, 0 
+Con pet: int, 5, 0 
+Var niz: Arr of int, 1, 0 
+Var nizch: Arr of char, 2, 0 
+Meth main: notype, 0, 0 
+   Var bodovi: int, 0, 1 
+
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+
+************************USPESNO ZAVRSENO PARSIRANJE!*************************
